@@ -77,3 +77,9 @@ $('.bimbingan-carousel').owlCarousel({
         }
     }
 });
+
+// $('.text-img-vector[data-image]').each(function() {
+//     $(this).css({
+//         'background-image': 'url(' + $(this).attr('data-image') + ')'
+//     });
+// });
